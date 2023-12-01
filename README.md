@@ -27,3 +27,55 @@
     <img src="/media/pic/parrots/hypnoparrotdark.webp" width="25" height="25"/>
     <img src="/media/pic/parrots/mustacheparrot.webp" width="25" height="25"/>
 </div>
+<div>
+    <img src="/media/pic/parrots/hypnoparrotdark.webp" width="25" height="25"/>
+    <img src="/media/pic/parrots/githubparrot.webp" width="25" height="25"/>
+    <img src="/media/pic/parrots/scienceparrot.webp" width="25" height="25"/>
+    <img src="/media/pic/parrots/hypnoparrotdark.webp" width="25" height="25"/>
+    <img src="/media/pic/parrots/opensourceparrot.webp" width="25" height="25"/>
+    <img src="/media/pic/parrots/hypnoparrotlight.webp" width="25" height="25"/>
+    <img src="/media/pic/parrots/stableparrot.webp" width="25" height="25"/>
+    <img src="/media/pic/parrots/footballparrot.webp" width="25" height="25"/>
+    <img src="/media/pic/parrots/footballparrot.webp" width="25" height="25"/>
+    <img src="/media/pic/parrots/laptop_parrot.webp" width="25" height="25"/>
+    <img src="/media/pic/parrots/dealwithitnowparrot.webp" width="25" height="25"/>
+    <img src="/media/pic/parrots/slomoparrot.webp" width="25" height="25"/>
+    <img src="/media/pic/parrots/spinningparrot.webp" width="25" height="25"/>
+    <img src="/media/pic/parrots/hypnoparrotlight.webp" width="25" height="25"/>
+    <img src="/media/pic/parrots/stableparrot.webp" width="25" height="25"/>
+    <img src="/media/pic/parrots/footballparrot.webp" width="25" height="25"/>
+    <img src="/media/pic/parrots/illuminatiparrot.webp" width="25" height="25"/>
+    <img src="/media/pic/parrots/jumpingparrot.webp" width="25" height="25"/>
+    <img src="/media/pic/parrots/asyncparrot.webp" width="36" height="25"/>
+    <img src="/media/pic/parrots/exceptionallyfastparrot.webp" width="25" height="25"/>
+    <img src="/media/pic/parrots/pirateparrot.webp" width="25" height="25"/>
+    <img src="/media/pic/parrots/dealwithitnowparrot.webp" width="25" height="25"/>
+    <img src="/media/pic/parrots/illuminatiparrot.webp" width="25" height="25"/>
+    <img src="/media/pic/parrots/hypnoparrotlight.webp" width="25" height="25"/>
+</div>
+<div>
+    <img src="/media/pic/parrots/githubparrot.webp" width="25" height="25"/>
+    <img src="/media/pic/parrots/levitationparrot.webp" width="25" height="25"/>
+    <img src="/media/pic/parrots/opensourceparrot.webp" width="25" height="25"/>
+    <img src="/media/pic/parrots/dealwithitnowparrot.webp" width="25" height="25"/>
+    <img src="/media/pic/parrots/databaseparrot.webp" width="25" height="25"/>
+    <img src="/media/pic/parrots/mustacheparrot.webp" width="25" height="25"/>
+    <img src="/media/pic/parrots/spinningparrot.webp" width="25" height="25"/>
+    <img src="/media/pic/parrots/hypnoparrotdark.webp" width="25" height="25"/>
+    <img src="/media/pic/parrots/dealwithitnowparrot.webp" width="25" height="25"/>
+    <img src="/media/pic/parrots/stableparrot.webp" width="25" height="25"/>
+    <img src="/media/pic/parrots/laptop_parrot.webp" width="25" height="25"/>
+    <img src="/media/pic/parrots/databaseparrot.webp" width="25" height="25"/>
+    <img src="/media/pic/parrots/jumpingparrot.webp" width="25" height="25"/>
+    <img src="/media/pic/parrots/slomoparrot.webp" width="25" height="25"/>
+    <img src="/media/pic/parrots/hypnoparrotlight.webp" width="25" height="25"/>
+    <img src="/media/pic/parrots/exceptionallyfastparrot.webp" width="25" height="25"/>
+    <img src="/media/pic/parrots/illuminatiparrot.webp" width="25" height="25"/>
+    <img src="/media/pic/parrots/mustacheparrot.webp" width="25" height="25"/>
+    <img src="/media/pic/parrots/stableparrot.webp" width="25" height="25"/>
+    <img src="/media/pic/parrots/jumpingparrot.webp" width="25" height="25"/>
+    <img src="/media/pic/parrots/pirateparrot.webp" width="25" height="25"/>
+    <img src="/media/pic/parrots/fixparrot.webp" width="36" height="25"/>
+    <img src="/media/pic/parrots/dealwithitnowparrot.webp" width="25" height="25"/>
+    <img src="/media/pic/parrots/mustacheparrot.webp" width="25" height="25"/>
+</div>
