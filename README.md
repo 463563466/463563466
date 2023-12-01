@@ -1,5 +1,5 @@
 <h1 align="center">
-  哇咔咔
+  <img src="/media/pic/parrots/githubparrot.webp" width="25" height="25"/>
 </h1>
 <div align="center">
     <img src="/media/pic/parrots/githubparrot.webp" width="25" height="25"/>
@@ -27,7 +27,7 @@
     <img src="/media/pic/parrots/hypnoparrotdark.webp" width="25" height="25"/>
     <img src="/media/pic/parrots/mustacheparrot.webp" width="25" height="25"/>
 </div>
-<div>
+<div align="center">
     <img src="/media/pic/parrots/hypnoparrotdark.webp" width="25" height="25"/>
     <img src="/media/pic/parrots/githubparrot.webp" width="25" height="25"/>
     <img src="/media/pic/parrots/scienceparrot.webp" width="25" height="25"/>
@@ -53,7 +53,7 @@
     <img src="/media/pic/parrots/illuminatiparrot.webp" width="25" height="25"/>
     <img src="/media/pic/parrots/hypnoparrotlight.webp" width="25" height="25"/>
 </div>
-<div>
+<div align="center">
     <img src="/media/pic/parrots/githubparrot.webp" width="25" height="25"/>
     <img src="/media/pic/parrots/levitationparrot.webp" width="25" height="25"/>
     <img src="/media/pic/parrots/opensourceparrot.webp" width="25" height="25"/>
